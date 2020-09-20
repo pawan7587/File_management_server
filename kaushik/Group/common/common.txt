@@ -1,0 +1,2 @@
+Here we have written all the common variables and functions used in the program
+1.create_folder 2.create_user 3.modify_file 4.read_file 5.list_of _files 6.user_delete
