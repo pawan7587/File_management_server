@@ -1,0 +1,13 @@
+THESE ARE THE AVAILABLE COMMANDS USED:
+1.change_folder <name>:
+Moves the current working directory.If the <name> in the directory does not exists then error will be displayed.
+2.list:
+Prints all the files in the current working directory with their size and date of modification.
+3.read_file<name>:
+Reads data from file<name> in the current working directory and displays first hundred characters and the same client 
+returns the next hundred words until all the characters in the file is read. If the user request is to be denied then  
+it returns
+an error.
+4.write_file<name><input>:
+Write the data in <input> to the end of the file <name> in the current working directory for the user issuing the request.
+If no file exists then it returns an error.
